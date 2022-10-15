@@ -736,7 +736,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
 - [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
 - [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
-- [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
+- [Design and Analysis of Algorithms](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms) : CS161 Stanford open courses
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
 - [FreeCourses](https://freecourses.github.io) : Free courses about programming
 - [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
@@ -751,6 +751,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Functional programming](https://www.youtube.com/watch?v=1PhArSujR_A) : John Carmack on Functional Programming (2013)
 - [Video about vims](https://vimeo.com/album/2838732) : A serie of tutorials about Vim
 - [Mastering Next.js](https://masteringnextjs.com/) : A free serie of videos to learn Next.js
+- [Let's Practice Together](https://www.youtube.com/c/LetsPracticeForallcompetitiveexams/featured) : Playlists for practicing competitive coding
+- [DesignCourse](https://www.youtube.com/c/DesignCourse) : A great series for WebDevs
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
